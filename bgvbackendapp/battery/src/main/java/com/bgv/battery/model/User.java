@@ -46,7 +46,7 @@ public class User implements UserDetails{
 	@Column(name="phone_no")
 	private String phoneNo;
 	
-	@ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
 	@JoinTable(name="user_role",
 	joinColumns = @JoinColumn(name="user_id"),
 	inverseJoinColumns= @JoinColumn(name="role_id")

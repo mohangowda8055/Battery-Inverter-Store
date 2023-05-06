@@ -12,8 +12,6 @@ const SingleInvBattery = () => {
 
   const fetchSingleBattery = (id) => {
     login ? setAddCartLogin(false) : setAddCartLogin(true);
-    const singleProduct = battery.filter((product) => product.id === id);
-    setSingleBattery(singleProduct);
   };
   return (
     <>
