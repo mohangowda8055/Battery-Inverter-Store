@@ -9,7 +9,7 @@ E-commerce Battery & Inverter Store website
 ![choose-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/5f6637f8-af10-494b-9123-a9e7b6421490)
 ![product-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/e78d2324-4e58-4777-bc18-fd22af323584)
 ![add-to-cart-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/55d314bb-d42c-4b4a-b23f-55c4b484130f)
-![cart-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/6867d412-9b6b-4d4f-aec9-398f5497efdc)
+![cart-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/7d69ae27-3f17-44bf-9d32-107fcf98f7f4)
 ![order-summary](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/3599261b-fdc2-4c65-91f3-01b88983fbc8)
 ![order-page](https://github.com/mohangowda8055/Battery-Inverter-Store/assets/125982691/559bedc4-4741-41e7-973b-10695173ab58)
 
